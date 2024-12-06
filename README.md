@@ -18,4 +18,4 @@ Je suis actuellement à la recherche d’un stage de fin d’études en système
 Email : chaibimene02@gmail.com
 LinkedIn : https://www.linkedin.com/in/chaibi-imene/
 N'hésitez pas à explorer mes dépôts et à collaborer avec moi ! 🌍
-https://github.com/chaibimene/github-readme-stats#common-options
+
